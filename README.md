@@ -24,10 +24,7 @@ python3 PsychoxxDos.py
 Instalação (Termux)
 ----
 
-
-Coloque o celular em modo paisagem
-
-para visualizar melhor
+Coloque o celular em modo paisagem para visualizar melhor
 
 
 
