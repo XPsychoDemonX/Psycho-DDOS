@@ -21,7 +21,7 @@ cd Psycho-DDOS
 python3 PsychoxxDos.py
 
 
-Instalação (Linux)
+Instalação (Termux)
 ----
 pkg install git
 
