@@ -23,6 +23,14 @@ python3 PsychoxxDos.py
 
 Instalação (Termux)
 ----
+
+
+Coloque o celular em modo paisagem
+
+para visualizar melhor
+
+
+
 pkg install git
 
 
