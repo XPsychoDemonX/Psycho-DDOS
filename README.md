@@ -1,4 +1,4 @@
-PsychoxxDoS v2 (with port scanner)
+PsychoxxDoS v3 (with port scanner)
 ----
 
 Ferramenta de Negação de Serviço
